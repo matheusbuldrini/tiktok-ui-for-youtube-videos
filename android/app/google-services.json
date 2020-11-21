@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "267640672825",
+    "firebase_url": "https://assistent-rc.firebaseio.com",
+    "project_id": "assistent-rc",
+    "storage_bucket": "assistent-rc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267640672825:android:fe04cd2b4eeb909ef1f3e8",
+        "android_client_info": {
+          "package_name": "com.example.yt_tt2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267640672825-0d2ed2s22s3g8ml88gnh6j6au53n40c9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yt_tt2",
+            "certificate_hash": "209b310077b15469c65753ae7ce403181b8cc5d1"
+          }
+        },
+        {
+          "client_id": "267640672825-piaca9ih968n3ufnvhnph6dl0i3asink.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8K9IuPe2t2Gnns_2qTjZMGlqVFi1_Jtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267640672825-uo0ncgk5b49ajg8f8tfk3v5vm0tg464g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
